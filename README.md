@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @John-Oleka
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Google Data Analytics and Python specialization from University of Michigan.
-- 💞️ I’m looking to collaborate on developing my career in this field and wirk on as many interesting data avenues, proceeses and jobs.
-- 📫 How to reach me through email at ojoleka@st.knust.edu.gh I'm eager to meet up and collaborate for mutual growth.
+## Petroleum Engineering Undergrad | AI & ML Enthusiast | Backend Developer | Data Analyst
 
-<!---
-John-Oleka/John-Oleka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm John Ojuu Oleka, a passionate Petroleum Engineering student with a deep interest in data analytics, machine learning, and backend development. I enjoy combining my engineering background with data science to solve complex problems and create innovative solutions.
+
+### What I Do
+- **Machine Learning & AI**: Building predictive models and developing AI-driven solutions, including custom chatbots.
+- **Data Analytics**: Skilled in data analysis with hands-on experience in Python and Google Data Analytics.
+- **Software Development**: Co-founder of DB Solutions, a project aimed at simplifying petroleum engineering calculations.
+
+### Let's Connect
+- **LinkedIn**: [John Ojuu Oleka](https://www.linkedin.com/in/johnojuuoleka)
+- **Website**: [My Portfolio](https://sites.google.com/view/joleksportfolio)
+- **Email**: ojoleka@st.knust.edu.gh
+- **Phone**: +233 542768936
+
