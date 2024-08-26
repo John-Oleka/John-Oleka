@@ -10,6 +10,7 @@ Hello! I'm John Ojuu Oleka, a passionate Petroleum Engineering student with a de
 ### Let's Connect
 - **LinkedIn**: [John Ojuu Oleka](https://www.linkedin.com/in/johnojuuoleka)
 - **Website**: [My Portfolio](https://sites.google.com/view/joleksportfolio)
+- **DB Solutions**: [Link](https://www.dbsolutionsweb.tech)
 - **Email**: ojoleka@st.knust.edu.gh
 - **Phone**: +233 542768936
 
